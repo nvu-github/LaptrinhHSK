@@ -1,0 +1,267 @@
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\demo hsk\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\stdole.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\stdole.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.FormCongTrinh.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.FormNhanVien.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Ngô Ngọc Hiến\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\Ngô Ngọc Hiến\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FormCongTrinh.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FormNhanVien.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\BTL.FormPhancong.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FormThongkeCTThicong.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FormThongkePhongban.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.exe
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.pdb
+C:\Users\Admin\Downloads\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\Admin\Downloads\QLNS\bin\Debug\QLNS.exe
+C:\Users\Admin\Downloads\QLNS\bin\Debug\QLNS.pdb
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.FormReport.resources
+C:\Users\Admin\Downloads\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormCongTrinh.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormNhanVien.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormPhancong.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormReport.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormThongkeCTThicong.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FormThongkePhongban.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.exe
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.pdb
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\QLNS.exe.config
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\QLNS.exe
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\QLNS.pdb
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\stdole.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\demo hsk\anh\fullproject\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\demo hsk\anh\fullproject\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.exe
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.pdb
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormCongTrinh.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormNhanVien.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormPhancong.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormReport.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormThongkePhongban.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormThongkeCT.resources
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\QLNS.exe.config
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\QLNS.exe
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\QLNS.pdb
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportSource.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.Shared.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.Windows.Forms.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\AxShockwaveFlashObjects.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\ShockwaveFlashObjects.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\stdole.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\Interop.WMPLib.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\AxInterop.WMPLib.dll
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormCongTrinh.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormNhanVien.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormPhancong.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormReport.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormThongkeCT.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormThongkePhongban.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FormTKNhanvien.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.exe
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.pdb
+D:\demo hsk\BTL_HSK\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\demo hsk\BTL_HSK\QLNS\QLNS.exe.config
+D:\demo hsk\BTL_HSK\QLNS\QLNS.exe
+D:\demo hsk\BTL_HSK\QLNS\QLNS.pdb
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.CrystalReports.Engine.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportSource.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.Shared.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.Windows.Forms.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\demo hsk\BTL_HSK\QLNS\AxShockwaveFlashObjects.dll
+D:\demo hsk\BTL_HSK\QLNS\Microsoft.SqlServer.Types.dll
+D:\demo hsk\BTL_HSK\QLNS\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\demo hsk\BTL_HSK\QLNS\ShockwaveFlashObjects.dll
+D:\demo hsk\BTL_HSK\QLNS\stdole.dll
+D:\demo hsk\BTL_HSK\QLNS\Interop.WMPLib.dll
+D:\demo hsk\BTL_HSK\QLNS\AxInterop.WMPLib.dll
+C:\Users\TGDD\source\repos\BTL_HSK\QLNS\obj\Debug\QLNS.FormTKNhanvien.resources
